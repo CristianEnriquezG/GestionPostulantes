@@ -8,7 +8,7 @@ import javax.swing.*;
 import javax.swing.border.Border;
 import java.awt.*;
 /**
- *
+ *jelout mouter
  * @author EGcri
  */
 public class Login extends javax.swing.JPanel {
@@ -149,7 +149,7 @@ public class Login extends javax.swing.JPanel {
     }// </editor-fold>//GEN-END:initComponents
 
     private void jPasswordField1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jPasswordField1ActionPerformed
-        // TODO add your handling code here:
+        System.exit(0);
     }//GEN-LAST:event_jPasswordField1ActionPerformed
 
 
